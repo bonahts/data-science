@@ -11,3 +11,9 @@ Seaborn
 - https://seaborn.pydata.org/generated/seaborn.distplot.html
 - https://seaborn.pydata.org/generated/seaborn.rugplot.html
 - https://seaborn.pydata.org/generated/seaborn.heatmap.html 
+
+Pandas
+- https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html
+
+Matplotlib 
+- https://matplotlib.org/stable/plot_types/index.html
