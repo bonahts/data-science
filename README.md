@@ -17,3 +17,6 @@ Pandas
 
 Matplotlib 
 - https://matplotlib.org/stable/plot_types/index.html
+
+Numpy 
+- https://numpy.org/doc/stable/user/absolute_beginners.html
